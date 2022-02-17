@@ -61,3 +61,10 @@
 .header{
     font-family: Vanilla;
 }
+.cursive{
+    font-family: cursive;
+}
+.icon img{
+    width: 200px;
+    height: auto;
+}

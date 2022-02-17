@@ -78,7 +78,8 @@ html {
     }
     #seccion1 p{
         margin: 0;
-        font-size: 2.5vw;
+        font-size: 2.3vw;
+        font-family: cursive;
         padding: 7vw;
     }
 
@@ -103,6 +104,7 @@ html {
     #seccion2 p{
         font-size: 2.5vw;
         padding: 5% 15% 10% 15%;
+        font-family: cursive;
     }
 
     /* Tercera sección */
@@ -132,8 +134,9 @@ html {
         font-family: vanilla;
     }
     #seccion3 .detalles p{
-        font-size: 2vw;
+        font-size:1.8vw;
         margin-bottom: 8%;
+        font-family: cursive;
     }
 
     /* Cuarta sección */
@@ -148,6 +151,9 @@ html {
     .seccion4 h3{
         padding: 2% 0%;
     }
+    .seccion4 p{
+        font-family: cursive;
+    }
 
     /* Footer */
     .politica{
@@ -155,6 +161,7 @@ html {
         justify-content: space-between;
         font-size: 2vw;
         padding: 1% 3%;
+        font-family: cursive;
     }
 }
 
@@ -211,6 +218,7 @@ html {
     #seccion1 p{
         margin: 0;
         font-size: 15px;
+        font-family: cursive;
         padding: 7vw;
     }
 
@@ -236,6 +244,7 @@ html {
     #seccion2 p{
         font-size: 20px;
         padding: 5% 15% 0% 15%;
+        font-family: cursive;
     }
 
     /* Tercera sección */
@@ -267,8 +276,9 @@ html {
         font-family: vanilla;
     }
     #seccion3 .detalles p{
-        font-size: 3.5vw;
+        font-size: 3vw;
         margin-bottom: 3%;
+        font-family: cursive;
     }
 
     /* Cuarta sección */
@@ -283,6 +293,9 @@ html {
     .seccion4 h3{
         padding: 2% 0%;
     }
+    .seccion4 p{
+        font-family: cursive;
+    }
 
     /* Footer */
     .politica{
@@ -290,5 +303,6 @@ html {
         justify-content: space-between;
         font-size: 2.5vw;
         padding: 1% 3%;
+        font-family: cursive;
     }
 }
